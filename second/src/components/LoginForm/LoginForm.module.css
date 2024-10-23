@@ -1,6 +1,11 @@
-container {
-    border-style: dashed color green;
+.container {
+    color: rgb(63, 34, 56);
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 40px;
+    padding-right: 40px;
+    border-style: dashed 2px;
     border-color: forestgreen;
-    border-radius: 25%;
-    background-color: tan;
+    border-radius: 5%;
+    background-color: rgba(210, 180, 140, 0.411);
 }
